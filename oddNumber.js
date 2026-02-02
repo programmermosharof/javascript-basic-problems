@@ -15,3 +15,4 @@ function averageofodd(numbers){
 const numbers = [23,34, 67, 89, 32 ];
 const avg = averageofodd(numbers);
 console.log('Average of odd numberse', avg.toFixed(2));
+
